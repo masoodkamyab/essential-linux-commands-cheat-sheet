@@ -1,7 +1,7 @@
 ## **File and Directory Management**
 cd  
 ls  
-touch
+touch  
 pwd  
 cp  
 mv  
