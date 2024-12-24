@@ -66,6 +66,7 @@ netstat
 ss  
 scp  
 rsync  
+tcpdump  
 traceroute  
 
 ## **Searching and Filtering**
