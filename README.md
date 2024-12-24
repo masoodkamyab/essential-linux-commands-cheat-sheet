@@ -1,4 +1,3 @@
-```markdown
 ## **File and Directory Management**
 cd  
 ls  
@@ -111,4 +110,3 @@ env
 who  
 w  
 uptime  
-```
