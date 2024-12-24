@@ -64,6 +64,7 @@ ifconfig
 ip  
 netstat  
 ss  
+nc  
 scp  
 rsync  
 tcpdump  
